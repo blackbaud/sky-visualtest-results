@@ -1,6 +1,6 @@
 # sky-visualtest-results
 
-This repository is used to store screenshots of visual test failures during a [Sky build](https://magnum.travis-ci.com/blackbaud/sky).
+This repository is used to store screenshots of visual test failures during a [SKY UX build](https://travis-ci.org/blackbaud/skyux).
 
 ## How to use this repo
 
